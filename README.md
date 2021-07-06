@@ -1,6 +1,6 @@
-## Brandon Caasenbrood -- @BJCaasenbrood
+## Brandon Caasenbrood —— @BJCaasenbrood
 
-👋 Hey! I'm a PhD researcher working on the field of *Soft Robotics*, in particular nonlinear dynamics and control, shape- and topology optimization, 
+👋 Hey! I'm a PhD researcher working on the field of *Soft Robotics*, in particular nonlinear dynamics and control, reduced-order modeling, and shape- and topology optimization.
 <!--
 **BJCaasenbrood/BJCaasenbrood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
