@@ -1,4 +1,4 @@
-## Brandon Caasenbrood — @BJCaasenbrood
+## Brandon Caasenbrood — @bjcaasenbrood
 
 👋 Hey! I'm a PhD researcher working on the field of *Soft Robotics*, particularly interested in nonlinear dynamics and control system theory, reduced-order modeling, finite-elements, and shape- and topology optimization.
 <!--
